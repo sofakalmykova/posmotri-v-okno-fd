@@ -1,1 +1,1 @@
-https://github.com/sofakalmykova/posmotri-v-okno-fd#
+https://github.com/sofakalmykova/posmotri-v-okno-fd
